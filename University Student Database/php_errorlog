@@ -1,0 +1,161 @@
+[01-Dec-2015 23:36:04 CST6CDT] PHP Parse error:  syntax error, unexpected 'action' (T_STRING) in /home/carsons5/public_html/residency/addstudent.php on line 4
+[01-Dec-2015 23:56:29 CST6CDT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/carsons5/public_html/residency/students.php on line 17
+[02-Dec-2015 00:04:22 CST6CDT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/carsons5/public_html/residency/students.php on line 19
+[02-Dec-2015 00:14:29 CST6CDT] PHP Parse error:  syntax error, unexpected 'mysql_close' (T_STRING) in /home/carsons5/public_html/residency/students.php on line 21
+[02-Dec-2015 00:16:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'mysqli_close' (T_STRING) in /home/carsons5/public_html/residency/students.php on line 21
+[02-Dec-2015 00:22:56 CST6CDT] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/carsons5/public_html/residency/addstudent.php on line 3
+[02-Dec-2015 01:48:39 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/carsons5/public_html/residency/students.php on line 32
+[02-Dec-2015 01:49:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 32
+[02-Dec-2015 01:49:41 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 32
+[02-Dec-2015 01:49:42 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 32
+[02-Dec-2015 01:50:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 32
+[02-Dec-2015 01:50:17 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 32
+[03-Dec-2015 23:40:06 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:40:32 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:40:32 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:40:41 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:40:42 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:41:37 CST6CDT] PHP Parse error:  syntax error, unexpected 'get' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:41:39 CST6CDT] PHP Parse error:  syntax error, unexpected 'get' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:41:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'get' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:41:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'get' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:41:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'get' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:41:53 CST6CDT] PHP Parse error:  syntax error, unexpected 'get' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:42:11 CST6CDT] PHP Parse error:  syntax error, unexpected 'get' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:42:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'get' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:42:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'get' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:42:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'get' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:42:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'get' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:42:14 CST6CDT] PHP Parse error:  syntax error, unexpected 'get' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 39
+[03-Dec-2015 23:42:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'get' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 39
+[04-Dec-2015 00:22:30 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/carsons5/public_html/residency/students.php on line 54
+[04-Dec-2015 00:27:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'dropdown' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 53
+[04-Dec-2015 00:28:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 54
+[04-Dec-2015 00:40:03 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 58
+[04-Dec-2015 00:41:25 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/carsons5/public_html/residency/students.php on line 53
+[04-Dec-2015 00:41:36 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 59
+[04-Dec-2015 00:43:00 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 59
+[04-Dec-2015 00:43:11 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 61
+[04-Dec-2015 00:43:20 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 61
+[04-Dec-2015 00:43:32 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 61
+[04-Dec-2015 00:43:34 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 61
+[04-Dec-2015 00:43:39 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 61
+[04-Dec-2015 00:43:41 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 61
+[04-Dec-2015 00:43:49 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 61
+[04-Dec-2015 00:44:21 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 61
+[04-Dec-2015 00:45:51 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 61
+[04-Dec-2015 00:45:52 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 61
+[04-Dec-2015 00:47:06 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 56
+[04-Dec-2015 00:47:45 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 56
+[04-Dec-2015 00:47:53 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 51
+[04-Dec-2015 00:47:54 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 51
+[04-Dec-2015 00:47:59 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 51
+[04-Dec-2015 00:48:00 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 51
+[04-Dec-2015 00:48:10 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 51
+[04-Dec-2015 00:48:27 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 51
+[04-Dec-2015 00:48:29 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 51
+[04-Dec-2015 00:49:09 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 48
+[04-Dec-2015 00:49:55 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/students.php on line 51
+[04-Dec-2015 00:53:23 CST6CDT] PHP Parse error:  syntax error, unexpected 'Go' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 56
+[04-Dec-2015 00:53:41 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/carsons5/public_html/residency/students.php on line 57
+[04-Dec-2015 00:53:49 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/carsons5/public_html/residency/students.php on line 57
+[04-Dec-2015 00:53:51 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/carsons5/public_html/residency/students.php on line 57
+[04-Dec-2015 00:54:43 CST6CDT] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 56
+[04-Dec-2015 00:55:15 CST6CDT] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 56
+[04-Dec-2015 00:56:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/carsons5/public_html/residency/students.php on line 55
+[04-Dec-2015 15:34:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/carsons5/public_html/residency/university.php on line 3
+[04-Dec-2015 15:34:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/carsons5/public_html/residency/university.php on line 3
+[04-Dec-2015 15:41:14 CST6CDT] PHP Parse error:  syntax error, unexpected ''")";' (T_ENCAPSED_AND_WHITESPACE) in /home/carsons5/public_html/residency/university.php on line 10
+[04-Dec-2015 15:43:20 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/carsons5/public_html/residency/university.php on line 9
+[04-Dec-2015 15:43:31 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/carsons5/public_html/residency/university.php on line 9
+[04-Dec-2015 21:34:33 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/carsons5/public_html/residency/guests.php on line 12
+[04-Dec-2015 21:43:32 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/carsons5/public_html/residency/guests.php on line 29
+[04-Dec-2015 21:50:18 CST6CDT] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home/carsons5/public_html/residency/guests.php on line 14
+[04-Dec-2015 21:50:56 CST6CDT] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home/carsons5/public_html/residency/guests.php on line 14
+[04-Dec-2015 21:51:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home/carsons5/public_html/residency/guests.php on line 14
+[04-Dec-2015 21:59:43 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/carsons5/public_html/residency/addguest.php on line 7
+[04-Dec-2015 22:29:52 CST6CDT] PHP Parse error:  syntax error, unexpected 'replace' (T_STRING) in /home/carsons5/public_html/residency/university.php on line 7
+[04-Dec-2015 22:48:04 CST6CDT] PHP Parse error:  syntax error, unexpected '?' in /home/carsons5/public_html/residency/university.php on line 35
+[04-Dec-2015 22:48:42 CST6CDT] PHP Parse error:  syntax error, unexpected '?' in /home/carsons5/public_html/residency/university.php on line 35
+[04-Dec-2015 22:49:23 CST6CDT] PHP Parse error:  syntax error, unexpected '?' in /home/carsons5/public_html/residency/university.php on line 34
+[04-Dec-2015 22:49:30 CST6CDT] PHP Parse error:  syntax error, unexpected '?' in /home/carsons5/public_html/residency/university.php on line 34
+[04-Dec-2015 22:50:21 CST6CDT] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/carsons5/public_html/residency/university.php on line 35
+[04-Dec-2015 22:50:53 CST6CDT] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/carsons5/public_html/residency/university.php on line 35
+[04-Dec-2015 22:50:59 CST6CDT] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/carsons5/public_html/residency/university.php on line 35
+[04-Dec-2015 22:54:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'replace' (T_STRING) in /home/carsons5/public_html/residency/university.php on line 16
+[05-Dec-2015 16:58:19 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/carsons5/public_html/residency/building.php on line 21
+[05-Dec-2015 16:58:45 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/carsons5/public_html/residency/building.php on line 21
+[05-Dec-2015 16:59:09 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/carsons5/public_html/residency/building.php on line 21
+[05-Dec-2015 17:01:32 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/carsons5/public_html/residency/building.php on line 21
+[05-Dec-2015 17:02:13 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/carsons5/public_html/residency/building.php on line 21
+[05-Dec-2015 17:02:38 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/carsons5/public_html/residency/building.php on line 21
+[05-Dec-2015 17:02:45 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/carsons5/public_html/residency/building.php on line 21
+[05-Dec-2015 17:03:06 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/carsons5/public_html/residency/building.php on line 21
+[05-Dec-2015 17:03:21 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/carsons5/public_html/residency/building.php on line 21
+[05-Dec-2015 17:04:23 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/carsons5/public_html/residency/building.php on line 23
+[05-Dec-2015 17:04:57 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/carsons5/public_html/residency/building.php on line 23
+[05-Dec-2015 17:05:06 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/carsons5/public_html/residency/building.php on line 23
+[05-Dec-2015 17:05:08 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/carsons5/public_html/residency/building.php on line 23
+[05-Dec-2015 17:05:32 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/carsons5/public_html/residency/building.php on line 23
+[05-Dec-2015 17:05:46 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/carsons5/public_html/residency/building.php on line 23
+[05-Dec-2015 17:05:50 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/carsons5/public_html/residency/building.php on line 23
+[05-Dec-2015 17:07:37 CST6CDT] PHP Parse error:  syntax error, unexpected '$UniversityName' (T_VARIABLE) in /home/carsons5/public_html/residency/building.php on line 21
+[05-Dec-2015 17:08:01 CST6CDT] PHP Parse error:  syntax error, unexpected '$UniversityName' (T_VARIABLE) in /home/carsons5/public_html/residency/building.php on line 21
+[05-Dec-2015 17:12:11 CST6CDT] PHP Parse error:  syntax error, unexpected 'is' (T_STRING) in /home/carsons5/public_html/residency/building.php on line 12
+[05-Dec-2015 17:12:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'NOT' (T_STRING) in /home/carsons5/public_html/residency/building.php on line 12
+[05-Dec-2015 17:12:38 CST6CDT] PHP Parse error:  syntax error, unexpected 'is' (T_STRING) in /home/carsons5/public_html/residency/building.php on line 12
+[05-Dec-2015 17:12:44 CST6CDT] PHP Parse error:  syntax error, unexpected 'NOT' (T_STRING) in /home/carsons5/public_html/residency/building.php on line 12
+[05-Dec-2015 17:13:37 CST6CDT] PHP Parse error:  syntax error, unexpected 'IS' (T_STRING) in /home/carsons5/public_html/residency/building.php on line 12
+[05-Dec-2015 17:15:45 CST6CDT] PHP Parse error:  syntax error, unexpected 'IS' (T_STRING) in /home/carsons5/public_html/residency/building.php on line 12
+[05-Dec-2015 17:39:10 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/carsons5/public_html/residency/building.php on line 38
+[05-Dec-2015 17:48:01 CST6CDT] PHP Parse error:  syntax error, unexpected 'goBack' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/guests.php on line 34
+[05-Dec-2015 17:48:54 CST6CDT] PHP Parse error:  syntax error, unexpected 'goBack' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/guests.php on line 34
+[05-Dec-2015 17:48:58 CST6CDT] PHP Parse error:  syntax error, unexpected 'goBack' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/guests.php on line 34
+[05-Dec-2015 22:00:32 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/carsons5/public_html/residency/students.php on line 37
+[05-Dec-2015 22:03:58 CST6CDT] PHP Parse error:  syntax error, unexpected 'Phone' (T_STRING) in /home/carsons5/public_html/residency/phone.php on line 15
+[05-Dec-2015 22:05:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'Phone' (T_STRING) in /home/carsons5/public_html/residency/phone.php on line 15
+[05-Dec-2015 22:05:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'Phone' (T_STRING) in /home/carsons5/public_html/residency/phone.php on line 15
+[05-Dec-2015 22:05:31 CST6CDT] PHP Parse error:  syntax error, unexpected 'Phone' (T_STRING) in /home/carsons5/public_html/residency/phone.php on line 15
+[06-Dec-2015 00:20:51 CST6CDT] PHP Parse error:  syntax error, unexpected '$mysqli' (T_VARIABLE) in /home/carsons5/public_html/residency/deleteuniversity.php on line 7
+[06-Dec-2015 00:42:33 CST6CDT] PHP Parse error:  syntax error, unexpected 'DELETE' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/deleteguest.php on line 9
+[06-Dec-2015 00:42:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'DELETE' (T_STRING), expecting ',' or ';' in /home/carsons5/public_html/residency/deleteguest.php on line 9
+[06-Dec-2015 00:49:27 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/carsons5/public_html/residency/staff.php on line 33
+[06-Dec-2015 00:50:38 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/carsons5/public_html/residency/deletestaff.php on line 19
+[06-Dec-2015 00:51:31 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/carsons5/public_html/residency/deletestaff.php on line 7
+[06-Dec-2015 00:51:36 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/carsons5/public_html/residency/deletestaff.php on line 7
+[06-Dec-2015 00:54:05 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/carsons5/public_html/residency/deletebuilding.php on line 9
+[06-Dec-2015 00:54:18 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/carsons5/public_html/residency/deletebuilding.php on line 9
+[06-Dec-2015 00:54:24 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/carsons5/public_html/residency/deletebuilding.php on line 9
+[06-Dec-2015 00:54:43 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/carsons5/public_html/residency/deletebuilding.php on line 9
+[06-Dec-2015 01:06:29 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/carsons5/public_html/residency/building.php on line 37
+[06-Dec-2015 01:10:09 CST6CDT] PHP Parse error:  syntax error, unexpected '");' (T_CONSTANT_ENCAPSED_STRING) in /home/carsons5/public_html/residency/building.php on line 37
+[06-Dec-2015 01:10:57 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/carsons5/public_html/residency/building.php on line 36
+[06-Dec-2015 01:13:50 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/carsons5/public_html/residency/building.php on line 36
+[06-Dec-2015 01:13:51 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/carsons5/public_html/residency/building.php on line 36
+[06-Dec-2015 01:13:52 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/carsons5/public_html/residency/building.php on line 36
+[06-Dec-2015 01:13:53 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/carsons5/public_html/residency/building.php on line 36
+[06-Dec-2015 01:14:49 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/carsons5/public_html/residency/building.php on line 36
+[06-Dec-2015 01:15:04 CST6CDT] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/carsons5/public_html/residency/building.php on line 37
+[06-Dec-2015 01:15:37 CST6CDT] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/carsons5/public_html/residency/building.php on line 37
+[06-Dec-2015 01:33:37 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/carsons5/public_html/residency/building.php on line 57
+[06-Dec-2015 01:33:57 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/carsons5/public_html/residency/building.php on line 57
+[06-Dec-2015 17:56:15 CST6CDT] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/carsons5/public_html/residency/viewbuilding.php on line 13
+[06-Dec-2015 17:57:14 CST6CDT] PHP Parse error:  syntax error, unexpected 'VIEW' (T_STRING) in /home/carsons5/public_html/residency/viewbuilding.php on line 7
+[06-Dec-2015 17:59:26 CST6CDT] PHP Parse error:  syntax error, unexpected 'VIEW' (T_STRING) in /home/carsons5/public_html/residency/viewbuilding.php on line 7
+[06-Dec-2015 18:01:21 CST6CDT] PHP Fatal error:  Call to a member function query() on null in /home/carsons5/public_html/residency/viewbuilding.php on line 9
+[06-Dec-2015 18:05:25 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/viewbuilding.php on line 43
+[06-Dec-2015 18:05:38 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/carsons5/public_html/residency/viewbuilding.php on line 43
+[06-Dec-2015 18:44:07 CST6CDT] PHP Parse error:  syntax error, unexpected '$mysqli' (T_VARIABLE) in /home/carsons5/public_html/residency/viewmates.php on line 11
+[06-Dec-2015 18:44:31 CST6CDT] PHP Parse error:  syntax error, unexpected '$mysqli' (T_VARIABLE) in /home/carsons5/public_html/residency/viewmates.php on line 11
+[06-Dec-2015 19:10:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'StaffRatio' (T_STRING) in /home/carsons5/public_html/residency/building.php on line 31
+[06-Dec-2015 19:11:32 CST6CDT] PHP Parse error:  syntax error, unexpected 'StaffRatio' (T_STRING) in /home/carsons5/public_html/residency/building.php on line 31
+[06-Dec-2015 19:11:42 CST6CDT] PHP Parse error:  syntax error, unexpected 'StaffRatio' (T_STRING) in /home/carsons5/public_html/residency/building.php on line 31
+[06-Dec-2015 19:13:04 CST6CDT] PHP Parse error:  syntax error, unexpected 'StaffRatio' (T_STRING) in /home/carsons5/public_html/residency/building.php on line 27
+[06-Dec-2015 19:13:29 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/carsons5/public_html/residency/building.php on line 44
+[06-Dec-2015 19:18:35 CST6CDT] PHP Parse error:  syntax error, unexpected '$StaffCount' (T_VARIABLE) in /home/carsons5/public_html/residency/building.php on line 34
+[06-Dec-2015 19:18:57 CST6CDT] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/carsons5/public_html/residency/building.php on line 35
+[06-Dec-2015 20:59:25 CST6CDT] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/carsons5/public_html/residency/university.php on line 34
+[06-Dec-2015 21:00:10 CST6CDT] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/carsons5/public_html/residency/university.php on line 34
+[06-Dec-2015 21:12:29 CST6CDT] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/carsons5/public_html/residency/building.php on line 63
+[06-Dec-2015 21:29:17 CST6CDT] PHP Parse error:  syntax error, unexpected 'language' (T_STRING) in /home/carsons5/public_html/residency/saveuniversityedit.php on line 12
+[06-Dec-2015 21:31:40 CST6CDT] PHP Parse error:  syntax error, unexpected '$mysqli' (T_VARIABLE) in /home/carsons5/public_html/residency/saveuniversityedit.php on line 12
